@@ -1,6 +1,6 @@
 # Verifiable LLM Inference AVS
 
-This repository demonstrates how to implement verifiable inference from a Gaia node using the Othentic Stack, developed by Mother of MotherDAO.
+This repository demonstrates how to implement verifiable inference from a Gaia node using the Othentic Stack, developed by MotherDAO.
 
 ---
 
