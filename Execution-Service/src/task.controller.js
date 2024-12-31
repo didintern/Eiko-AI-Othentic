@@ -19,7 +19,7 @@ router.post("/execute", async (req, res) => {
             throw new Error("Query is required");
         }
         
-        const result = await llmService.getLLMResponse(query);
+        const result = await llmService.getLLMResponse(query); // provide query to api
         const cid = await dalService.publishJSONToIpfs(result);
         const data = llmService.truncateText(result.choice, 100); // Truncate response for data field
         await dalService.sendTask(cid, data, taskDefinitionId);
