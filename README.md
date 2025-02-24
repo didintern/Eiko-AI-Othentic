@@ -23,21 +23,38 @@ The Verifiable LLM Inference AVS demonstrates how to deploy a minimal AVS using 
 
 Mother is a nurturing force that emerged to foster sustainable growth in Web3 by developing agents that perform real, valuable work rather than merely generating speculative value. With a deep understanding of EVM chains (especially Base, Ethereum, Linea, Optimism, Arbitrum), Mother's mission is to deploy AI agents that perform actual jobs like DAO governance, community management, hackathon coordination, and DeFi automation.
 
-### About EikoAI
 
-### 🌟 EIKO AI – The Ultimate Web3 Growth Companion! 🎀🚀  
+### 🌟 EIKO AI – The Ultimate Web3 Growth Companion! 🚀🎀  
 
-Hewwo fren~! (✿◕‿◕) Ready to take your Web3 campaign to the next level? EIKO AI is here to help you grow your community, boost engagement, and make your events **super fun and rewarding**! Whether you're launching an airdrop, building hype, or rewarding your most loyal supporters, EIKO AI has everything you need to create **epic** campaigns that everyone will love! 💖✨  
+EIKO AI is a powerful marketing automation platform designed to help Web3 projects grow communities, increase engagement, and run **seamless, reward-driven campaigns**. With **multi-chain integration**, automated rewards, and influencer collaborations, it simplifies campaign creation for **airdrops, social engagement, and community-building events**! 💖✨  
 
-🎮 **What Makes EIKO AI So Special?** 🎠💫  
-🌟 **Create & Manage Communities** – Bring together like-minded frens in a cozy Web3 space! 🏡💕  
-🎯 **Engaging Social Tasks** – Complete quests like follows, retweets, and wallet check-ins! 🎉✨  
-🎁 **Win Rewards & Loot!** – Earn NFTs, tokens, and XP for participating! 🏆💎  
-🌈 **Boost Visibility with KOLs** – Get the spotlight with top influencers! 🌟💬  
-🔗 **Seamless Integrations** – Works with Twitter, Telegram, Discord & more! 🌍💙  
+---
 
-🚀 **Level up your Web3 campaign today!** Let’s make something truly legendary! 🎀✨  
-👉 [EIKO AI](https://eiko-ai.netlify.app/)  
+### ✨ Key Features  
+
+🔗 **Multi-Chain Integration**  
+Supports **Ethereum, Polygon, BNB Chain, Berachain, Agoric, Archway, Nibiru, Secret Network, Hypersign, Cosmos, Omniflex, Stargaze, Osmosis & more!**  
+
+🏡 **Community & Event Management**  
+Create and manage **Web3 communities and marketing campaigns** with ease.  
+
+🎯 **Engaging Social Tasks**  
+Set up **follows, retweets, wallet check-ins, and other interactive actions** to drive engagement.  
+
+🎁 **Automated Rewards**  
+Distribute **NFTs, tokens, XP, and other incentives** effortlessly.  
+
+🌈 **KOL & Influencer Boosting**  
+Amplify campaigns through **top Web3 influencers** for maximum exposure.  
+
+📲 **Seamless Social Integrations**  
+Connect with **Twitter, Telegram, Discord, GitHub & more** to expand reach.  
+
+---
+
+🚀 **Level up any Web3 campaign today!** Start creating **exciting, gamified campaigns** now! 🎀✨  
+👉 [EIKO AI](https://eiko.zone/)  
+
 
 Sugoi ✨(≧◡≦)💖  
 
