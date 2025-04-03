@@ -98,7 +98,6 @@ Validation Service logic:
 This architecture ensures that AI responses are:
 - Verifiable through blockchain consensus
 - Transparent through IPFS storage
-- Aligned with Mother's principles of providing real utility
 - Secured by Othentic's robust validation framework
 
 ---
