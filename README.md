@@ -92,7 +92,6 @@ Task Execution logic:
 Validation Service logic:
 - Retrieve the LLM response from IPFS using the CID
 - Validate the response format and structure
-- Ensure the response adheres to Mother's communication principles
 - Verify the inference came from an authorized Gaia node
 
 This architecture ensures that AI responses are:
